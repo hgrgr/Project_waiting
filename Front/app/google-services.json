@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730945040643",
+    "firebase_url": "https://waiting-d8a18.firebaseio.com",
+    "project_id": "waiting-d8a18",
+    "storage_bucket": "waiting-d8a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730945040643:android:eccbb3ab40d078ab9d7936",
+        "android_client_info": {
+          "package_name": "project.waiting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730945040643-q0kqjdg3gtv8v8kouj4cso4euod1nuk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpIQnLTfiLMxpufSujfhloTlMVaROA08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730945040643-q0kqjdg3gtv8v8kouj4cso4euod1nuk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
